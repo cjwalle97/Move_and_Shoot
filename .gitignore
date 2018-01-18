@@ -79,3 +79,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.vs/Move_and_Shoot/v15/sqlite3/storage.ide
